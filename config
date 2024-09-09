@@ -1,0 +1,7 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaahpu3bi2yvoyoh7ryvihovfrpvyayapao6mvutnsn7p5umq22y3uq
+fingerprint=23:67:1d:b5:9d:59:27:23:e8:06:ae:f4:05:ca:89:12
+key_file=oracleidentitycloudservice_ivan.v.vasquez-10-24-21-46.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaah2c25pobzyzvkcznnozputxfxtz3qvewrqaga7z66tdjrgvigbiq
+#region=us-ashburn-1
+region=sa-vinhedo-1
