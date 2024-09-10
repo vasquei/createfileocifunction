@@ -1,6 +1,6 @@
 schema_version: 20180708
-name: app_mess_createfile_os_function
-version: 0.0.53
+name: createfilefunction
+version: 0.0.61
 runtime: node
 build_image: fnproject/node:18-dev
 run_image: fnproject/node:18

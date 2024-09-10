@@ -6,8 +6,8 @@
 	"author": "",
 	"license": "Apache-2.0",
 	"dependencies": {
-		"@fnproject/fdk": ">=0.0.63",
-		"oci-objectstorage":"2.81.0",
-		"oci-common":"2.81.0"
+		"@fnproject/fdk": ">=0.0.69",
+		"oci-objectstorage":"2.93.0",
+		"oci-common":"2.93.0"
 	}
 }
